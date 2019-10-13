@@ -305,8 +305,6 @@ section{
   overflow: hidden;
   position: relative;
   width: 100%;
-  padding-left: 100px;
-
 }
 .slider::before, .slider::after {
   background: linear-gradient(to right, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
